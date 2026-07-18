@@ -1,4 +1,10 @@
-﻿# GitHubDesktop2Chinese
+﻿# 本仓库为开源项目备份仓库
+本项目 Fork 自原作者开源仓库，仅做个人永久备份用途，无任何商业使用：
+原作者：cngege
+原项目地址：https://github.com/cngege/GitHubDesktop2Chinese
+开源协议：沿用原项目开源协议
+说明：若上游原仓库被删除，用于留存汉化程序源码及Release安装包。
+# GitHubDesktop2Chinese
 
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/cngege/GitHubDesktop2Chinese/build.yml)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/cngege/GitHubDesktop2Chinese/check.yml?label=json检查)
